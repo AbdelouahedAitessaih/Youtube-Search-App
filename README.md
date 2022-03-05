@@ -1,4 +1,4 @@
-# youtube_search_app
+# Youtube Search App
 
 A new Flutter project.
 
